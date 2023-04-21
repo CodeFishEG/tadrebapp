@@ -74,7 +74,8 @@
         "high": 120
     },
     "customurlscheme": "tadreblive",
-    "sites": ["https://cp.tadreb.live"],
+    "sites":
+        [{"url":"https://cp.tadreb.live"}],
     "multisitesdisplay": false,
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
